@@ -6,6 +6,6 @@ Some description!
 
 Learning!
 
-##Local dev
+## Local dev
 
 1. Open index on browser.

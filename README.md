@@ -1,10 +1,10 @@
-# Demo
+# Data Analytics Projects
 
-Some description!
+This section of my github represents the personal projects that I've done on my own to overview my data analytical skills!
 
-## Subheader
+## Project description
 
-Learning!
+The projects that I have worked are not just based on one single topic or approach. I have trued to introduce variety to my project category!
 
 ## Local dev
 
